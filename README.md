@@ -1,3 +1,6 @@
+## About
+Hi, I'm Adil Mubarak! I'm a passionate developer with expertise in Go, JavaScript, HTML5, and CSS3. I enjoy building efficient and scalable web applications. My goal is to continually enhance my skills and contribute to impactful projects.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adl.mubrk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adil-mubarak) 
