@@ -57,12 +57,3 @@
 </p>
 
 ---
-  <a href="#"><img src="https://img.shields.io/badge/System%20Design%20with%20Go-333333?style=for-the-badge&logo=go&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Snake Contributions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adil-mubarak/adil-mubarak/output/snake.svg" alt="Snake animation"/>
-</p>
