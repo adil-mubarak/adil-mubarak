@@ -1,49 +1,55 @@
+<!-- Hero Section with Go Logo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.svg" alt="Gopher" width="120"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Adil Mubarak</h1>
-<h3 align="center">🚀 Passionate Developer | Go & JavaScript Enthusiast | Backend & Web Applications</h3>
+<h3 align="center">Backend Developer | Go Enthusiast | Building Scalable Web Applications 🚀</h3>
 
----
-
-## 👨‍💻 About Me
-- 💡 I love building **efficient, scalable web applications**  
-- 🛠️ Skilled in **Go, JavaScript, HTML5, CSS3, and MySQL**  
-- 🎯 Focused on **clean code, REST APIs, and problem solving**  
-- 🌱 Currently learning and exploring **modern backend & system design**  
-- 🤝 Open to collaborating on **innovative and impactful projects**  
-
----
-
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/adil-mubarak" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/adl.mubrk" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&center=true&vCenter=true&width=800&lines=Go+Developer+%7C+Backend+Engineer;Passionate+about+Clean+Code+%26+APIs;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack  
-
-**Languages & Frameworks**  
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
-**Other Skills**  
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)  
+## 👨‍💻 About Me  
+- 💡 Passionate about **Go (Golang) backend development**  
+- 🛠 Skilled in **Go, REST APIs, MySQL, JavaScript, HTML5, CSS3**  
+- 🎯 Focused on **clean code, concurrency, and scalable systems**  
+- 🌱 Currently exploring **system design & distributed architectures**  
+- 🤝 Open to collaborating on **Go projects & open-source contributions**  
 
 ---
 
-## 📊 GitHub Stats  
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/adil-mubarak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/adl.mubrk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack (Go First 🚀)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adil-mubarak&theme=tokyonight&show_icons=true&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-mubarak&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://skillicons.dev/icons?i=go,mysql,git,postman,js,html,css" /><br/>
+  <img src="https://img.shields.io/badge/REST%20API-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-%23000000.svg?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adil-mubarak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-mubarak&theme=tokyonight&hide_border=true" height="170px"/>
 </p>
 
 <p align="center">
@@ -52,16 +58,17 @@
 
 ---
 
-## 🏆 Achievements  
+## 🚀 Featured Projects  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adil-mubarak&theme=onestar&no-frame=true&margin-w=5"/>
+  <a href="#"><img src="https://img.shields.io/badge/Go%20REST%20API-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Concurrency%20Patterns-00599C?style=for-the-badge&logo=go&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/System%20Design%20with%20Go-333333?style=for-the-badge&logo=go&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🔗 Profile Visitors  
+<!-- Snake Contributions -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=adil-mubarak&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://raw.githubusercontent.com/adil-mubarak/adil-mubarak/output/snake.svg" alt="Snake animation"/>
 </p>
-
----
