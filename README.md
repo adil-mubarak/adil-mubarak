@@ -57,12 +57,6 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects  
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Go%20REST%20API-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Concurrency%20Patterns-00599C?style=for-the-badge&logo=go&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/System%20Design%20with%20Go-333333?style=for-the-badge&logo=go&logoColor=white"/></a>
 </p>
 
