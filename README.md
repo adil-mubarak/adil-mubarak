@@ -4,7 +4,7 @@
 </p>
 <!-- Hero Section -->
 <p align="center">
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="200"/>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="150"/>
 </p>
 
 <h1 align="center">
