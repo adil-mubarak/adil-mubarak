@@ -1,3 +1,7 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=150&section=header" width="100%" />
+</p>
 <!-- Hero Section -->
 <p align="center">
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="200"/>
@@ -53,4 +57,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-mubarak&layout=compact&theme=tokyonight&hide_border=true" height="140px"/>
+</p>
+<!-- Footer Banner -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=150&section=footer" 
+    width="100%" 
+    style="transform: rotate(180deg);" 
+  />
 </p>
