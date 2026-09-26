@@ -1,68 +1,33 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=150&section=header" width="100%" />
-</p>
-<!-- Hero Section -->
-<p align="center">
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go Logo" width="150"/>
-</p>
+# Adil Mubarak
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adil Mubarak
-</h1>
+## Backend Engineer | Go (Golang)
 
-<h3 align="center">Backend Developer | Go Enthusiast 🚀</h3>
+I build backend APIs and data workflows for SaaS products, with a focus on Go, database-backed business logic, and reliable integrations.
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1200&center=true&vCenter=true&width=800&lines=Go+Developer;Building+Scalable+Systems;Passionate+about+Clean+Code+%26+APIs" alt="Typing SVG" />
-  </a>
-</p>
+At Texol, I work on Vanforce, a sales force automation and distribution management platform, and TSEEP, a multi-tenant educational assessment and intelligence platform.
 
----
+### What I work on
 
-## 👨‍💻 About Me
-- 💡 Passionate about **Go (Golang) backend development**  
-- 🛠 Skilled in **REST APIs, MySQL, Git, and modern web technologies**  
-- 🎯 Focused on **clean code, concurrency, and scalability**  
-- 🌱 Exploring **system design & distributed systems**  
-- 🤝 Open to **collaborations & open-source contributions**
+- Go REST APIs using layered repository and service architecture
+- MySQL-backed business logic, reusable queries, migrations, and SQL optimization
+- Redis caching and cached AI recommendation results
+- Reporting, KPI, filtering, pagination, comparison, and drill-down workflows
+- Authentication and security features including JWT, bcrypt, OTP expiry, and token blacklisting
+- Payment webhooks and external HTTP/JSON integrations
+- PDF, certificate, Excel, CSV, and ZIP export pipelines
+- Docker and Docker Compose-based backend services
 
----
+### Selected repositories
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/adil-mubarak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/adl.mubrk" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+- [panel-reader-backend](https://github.com/adil-mubarak/panel-reader-backend): Go backend with a React frontend and Python AI service for comic and manga panel workflows. Includes Docker Compose, SQLite persistence, validation, timeouts, integration tests, and import/export flows.
+- [adil-portfolio](https://github.com/adil-mubarak/adil-portfolio): React/Vite portfolio application and the primary presentation site.
+- [Discount_Engine](https://github.com/adil-mubarak/Discount_Engine): Small Go service demonstrating rule evaluation, HTTP handling, and unit tests.
 
----
+### Core tools
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,mysql,git,postman,js,html,css" />
-</p>
+`Go` `REST APIs` `HTTP` `MySQL` `Redis` `Docker` `Docker Compose` `SQL` `Git` `Linux`
 
----
+### Links
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adil-mubarak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adil-mubarak&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil-mubarak&layout=compact&theme=tokyonight&hide_border=true" height="140px"/>
-</p>
-<!-- Footer Banner -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=150&section=footer" 
-    width="100%" 
-    style="transform: rotate(180deg);" 
-  />
-</p>
+- [Portfolio](https://adil-portfolio-smoky.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/adil-mubarak/)
